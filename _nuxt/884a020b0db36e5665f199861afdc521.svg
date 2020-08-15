@@ -1,0 +1,36 @@
+<svg id="svg2"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" xml:space="preserve" viewBox="0 0 92.458661 102.33427" sodipodi:docname="off.svg" inkscape:version="1.0 (6e3e5246a0, 2020-05-07)">
+  <g id="g10" inkscape:groupmode="layer" inkscape:label="assets-complement" transform="matrix(1.3333333,0,0,-1.3333333,-72.913732,1549.3252)">
+    <g id="g1419">
+      <g id="g300" transform="translate(101.3733,1148.6882)">
+        <path id="path302" style="
+                        fill: none;
+                        stroke-width: 7;
+                        stroke-linecap: round;
+                        stroke-linejoin: round;
+                        stroke-miterlimit: 10;
+                        stroke-dasharray: none;
+                        stroke-opacity: 1;
+                      " d="m 0,0 c 11.251,-4.705 19.156,-15.815 19.156,-28.772 0,-17.217 -13.956,-31.173 -31.172,-31.173 -17.216,0 -31.172,13.956 -31.172,31.173 0,13.119 8.105,24.346 19.581,28.946" />
+      </g>
+      <g id="g304" transform="translate(89.3571,1136.8899)">
+        <path id="path306" style="
+                        fill: none;
+                        stroke-width: 7;
+                        stroke-linecap: round;
+                        stroke-linejoin: round;
+                        stroke-miterlimit: 10;
+                        stroke-dasharray: none;
+                        stroke-opacity: 1;
+                      " d="M 0,0 V 21.604" />
+      </g>
+      <g id="g312" transform="translate(97.0739,1119.24)">
+        <path id="path314" style="fill-opacity: 1; fill-rule: nonzero; stroke: none;" d="m 0,0 c 0,-4.262 -3.455,-7.716 -7.717,-7.716 -4.262,0 -7.717,3.454 -7.717,7.716 0,4.262 3.455,7.717 7.717,7.717 C -3.455,7.717 0,4.262 0,0" />
+      </g>
+    </g>
+  </g>
+</svg>

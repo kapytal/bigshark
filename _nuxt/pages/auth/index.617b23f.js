@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{704:function(t,n,e){"use strict";e.r(n);var l={layout:"auth",components:{Auth:e(605).a}},o=e(18),component=Object(o.a)(l,(function(){var t=this.$createElement;return(this._self._c||t)("auth")}),[],!1,null,null,null);n.default=component.exports}}]);
